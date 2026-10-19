@@ -48,6 +48,6 @@
 <text x="625.9799999999999" y="442" font-size="15" fill="#e6edf3" xml:space="preserve">3DS bridge ........... an interactable Home Assistant</text>
 <text x="625.9799999999999" y="464" font-size="15" fill="#e6edf3" xml:space="preserve">Tab tool ............. sheet music to tablature</text>
 <text x="625.9799999999999" y="486" font-size="15" fill="#e6edf3" xml:space="preserve">Guidance ............. offline Elden Ring companion</text>
-<text x="625.9799999999999" y="530" font-size="15" font-weight="bold" fill="#4493f8" xml:space="preserve">RETIRED</text>
-<text x="625.9799999999999" y="552" font-size="15" fill="#e6edf3" xml:space="preserve">Local Agent Bridge ... <tspan text-decoration="line-through">taken out to pasture</tspan> retired</text>
+<text x="625.9799999999999" y="530" font-size="15" font-weight="bold" fill="#4493f8" xml:space="preserve"><tspan text-decoration="line-through">TAKEN OUT TO PASTURE</tspan> RETIRED</text>
+<text x="625.9799999999999" y="552" font-size="15" fill="#e6edf3" xml:space="preserve">Local Agent Bridge ... WebSocket + FastAPI prototype</text>
 </svg>

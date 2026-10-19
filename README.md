@@ -6,14 +6,7 @@
 
 # Hi, I'm Trent
 
-I'm Trent. I live in Winter Garden, Florida with my partner Haley, three cats, and a small fleet of computers that run parts of our house. For work I have run operations at district scale, managed logistics, built production AI and process systems at a tax software company, and done freelance IT, which I still do. This page is the building side of all that: a desk robot, a house you can walk around in on a 3DS, and tools I needed that did not exist. The rest is at [trenttelenda.com](https://trenttelenda.com).
-
-## The work, briefly
-
-- **Taxwell (tax software):** built and deployed a production AI agent for a support inbox, with answer, routing, and human-escalation rules scored against real inquiries. Designed a no-call/no-show case system used across four departments. Rebuilt a recruiting workflow around how the recruiters actually worked, after the first version got worked around. Founded Minds in Motion, a neurodiversity employee resource group that grew into the company's largest.
-- **Best Buy:** district-level Home Services operations across Central Florida. Wrote the operating SOP for a same-day delivery pilot; key parts were adopted for the regional rollout.
-- **WasteRetriever:** ran operations across a matrix of operations, sales, finance, HR, safety, and compliance. Cut operating expenses 20% year over year.
-- **Home Field Advantage Consulting:** freelance IT for small clients: equipment sourcing, setup, migration, troubleshooting, training.
+I'm Trent. I live in Winter Garden, Florida with my partner Haley, three cats, and a small fleet of computers that run parts of our house. The day-job side of my life is operations, systems, and AI implementation; that history lives at [trenttelenda.com](https://trenttelenda.com). This page is the building side: a desk robot, a house you can walk around in on a 3DS, and tools I needed that did not exist. The rest is at [trenttelenda.com](https://trenttelenda.com).
 
 ## Projects
 
@@ -29,8 +22,8 @@ I'm Trent. I live in Winter Garden, Florida with my partner Haley, three cats, a
 - **[sheet-music-to-tablature-converter](https://github.com/Tjtelenda/sheet-music-to-tablature-converter)** — turns sheet-music PDFs and MusicXML into aligned bass or guitar tablature, with repeats and codas preserved. Desktop releases for Windows, macOS, and Linux. I built it to learn my electric bass parts for a community orchestra.
 - **[GuidanceOfGrace](https://github.com/Tjtelenda/GuidanceOfGrace)** — an offline Electron companion for Elden Ring that reads local saves read-only, with a published Windows installer.
 
-**Retired**
+**~~taken out to pasture~~ Retired**
 
-- **[Local-agent-bridge](https://github.com/Tjtelenda/Local-agent-bridge)** — ~~taken out to pasture~~ retired. A WebSocket bridge + FastAPI relay prototype between a cloud agent and local systems, kept public under MIT for reference. The bridge projects above are what replaced it.
+- **[Local-agent-bridge](https://github.com/Tjtelenda/Local-agent-bridge)** — a WebSocket bridge + FastAPI relay prototype between a cloud agent and local systems, kept public under MIT for reference. The bridge projects above are what replaced it.
 
 [trenttelenda.com](https://trenttelenda.com) · [LinkedIn](https://www.linkedin.com/in/trenttelenda)
