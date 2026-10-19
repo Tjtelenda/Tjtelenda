@@ -6,7 +6,7 @@
 
 # Hi, I'm Trent
 
-I figure out how work actually happens, then build what it needs: a process that holds, a system people will actually use, sometimes the software itself. That has meant operations, systems, and AI implementation across retail, logistics, and tech, plus freelance IT work I still do. This page is the software side of it; the rest is at [trenttelenda.com](https://trenttelenda.com).
+I'm Trent. I live in Winter Garden, Florida with my partner Haley, three cats, and a small fleet of computers that run parts of our house. For work I have run operations at district scale, managed logistics, built production AI and process systems at a tax software company, and done freelance IT, which I still do. This page is the building side of all that: a desk robot, a house you can walk around in on a 3DS, and tools I needed that did not exist. The rest is at [trenttelenda.com](https://trenttelenda.com).
 
 ## The work, briefly
 
@@ -20,7 +20,7 @@ I figure out how work actually happens, then build what it needs: a process that
 **In development**
 
 - **[MuseChan](https://github.com/Tjtelenda/musechan)** — a fork of Meta's Muse gadget SDK that puts my Muse on hardware I am constantly tinkering with: the StackChan desk robot (face, head servos, live reactions, outfit updates over the air) and the AiPi board. Worked on all the time.
-- **[3ds-homeassistant-local-agent-bridge](https://github.com/Tjtelenda/3ds-homeassistant-local-agent-bridge)** — the server half of a Nintendo 3DS client that shows my house live and controls it: devices, media, PCs, music, and chat with my assistant. In daily use, and the client keeps gaining features, so the bridge keeps changing with it.
+- **[3ds-homeassistant-local-agent-bridge](https://github.com/Tjtelenda/3ds-homeassistant-local-agent-bridge)** — an interactable version of Home Assistant: the server half of a 3DS client that renders my house as a walkable map, where the lights, TVs, PCs, music, and front door lock are things you walk up to and use. In daily use, and still gaining features.
 - **The home lab itself** — local model training and evaluation, custom firmware for a Cardputer handheld, and the household automation bridges that tie the house to my assistant. Ongoing, mostly not published.
 
 **In production / shipped**
